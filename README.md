@@ -1,5 +1,5 @@
--Hola que tal soy humberdav, actualmente desarrollo en PHP
--Aprendiendo el desarrollo en Angular.
+Hola que tal mi nombre es Humberto Valdez, actualmente desarrollo en PHP puro con MySQL, PDO, POO, Javascript, Ajax y Jquery con 12 años de experiencia en el desarrollo de sistemas web.
+Actualmente estoy aprendiendo el desarrollo en Angular y Laravel.
 
 
 <!---
